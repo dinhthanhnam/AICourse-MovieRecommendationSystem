@@ -1,2 +1,4 @@
 input_data/
 .ipynb_checkpoints/
+__pycache__/
+processed_data/
