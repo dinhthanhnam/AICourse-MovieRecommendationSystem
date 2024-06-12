@@ -2,3 +2,5 @@ input_data/
 .ipynb_checkpoints/
 __pycache__/
 processed_data/
+AI_Dump/
+crawl_test/
